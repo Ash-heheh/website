@@ -1,0 +1,16 @@
+/* about.css */
+
+/* Specific styles for the About Me page */
+.about-section {
+    padding: 5rem 0;
+    margin-bottom: 2rem;
+}
+
+.about-section p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    color: var(--text-color);
+    text-align: justify;
+}
